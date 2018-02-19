@@ -1,0 +1,5 @@
+MyAge = input('What is your age? ')
+print()
+MyDadsAge = input ('What is your dads age?')
+print()
+print(MyAge + MyDadsAge)
